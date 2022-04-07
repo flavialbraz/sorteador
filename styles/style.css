@@ -97,15 +97,21 @@ body {
     background: #faaa33;
 }
 @media screen and (max-width:700px) {
-    .container {
-       width: 90%;
-   }
+.container {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 10rem;
+}
     .header h1 {
        font-size: 3.5rem;
        letter-spacing: -4px;
    }
-    .recarregar {
+.recarregar {
     bottom: 20px;
     left: 10px;
+    background: unset;
+    color: #faaa33;
 }
+    
+    
 }
