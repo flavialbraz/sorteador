@@ -104,4 +104,8 @@ body {
        font-size: 3.5rem;
        letter-spacing: -4px;
    }
+    .recarregar {
+    bottom: 20px;
+    left: 10px;
+}
 }
