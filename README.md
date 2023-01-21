@@ -1,6 +1,10 @@
 
 <h1 align="center"> Sorteio Online </h1>
 
+<p align="center">
+  <img src="./images/preview.png" width="100%">
+</p>
+
 
 ## 🚀 Tecnologias
 
